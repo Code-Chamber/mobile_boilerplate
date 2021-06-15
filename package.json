@@ -5,7 +5,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "test": "jest",    
+    "test": "jest",
     "eject": "expo eject"
   },
   "dependencies": {
@@ -20,6 +20,7 @@
     "@babel/core": "^7.9.0",
     "@types/react": "~16.9.35",
     "@types/react-native": "~0.63.2",
+    "detox": "^18.17.0",
     "jest-expo": "^41.0.0",
     "typescript": "~4.0.0"
   },
